@@ -1,0 +1,176 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 571674 */
+  src: url('https://at.alicdn.com/t/font_571674_ib9l7thtkhssv2t9.eot');
+  src: url('https://at.alicdn.com/t/font_571674_ib9l7thtkhssv2t9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_571674_ib9l7thtkhssv2t9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_571674_ib9l7thtkhssv2t9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_571674_ib9l7thtkhssv2t9.svg#iconfont') format('svg');
+}
+.search{
+	width: 100%;
+	height: 1.73rem;
+	border-bottom: 0.03rem solid #EFEFEF;
+	background-color: #fff;
+	/* float: left; */
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+.suosou{
+	width: 9.84rem;
+	height: 1.05rem;
+	background-color: #FDF8F4;
+	border: 0.01rem solid #efefef;
+	margin:0 auto;
+	margin-top: 0.39rem;
+	border-radius: 0.1rem;
+	position: relative;
+}
+.suosou_kuang{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 7.9rem;
+	height: 1.05rem;
+	border: 0;
+	border-radius: 0.1rem;
+	font-size: 0.3rem;
+	color: #9A9997;
+	background-color: #FDF8F4;
+	outline: none;
+}
+.suosou_btn{
+	font-family: 'iconfont';
+	font-size: 0.4rem;
+	color: #000;
+    float: left;
+    width: 0.8rem;
+	height: 1.05rem;
+    background-color: #FDF8F4;
+    border: 0;
+    position: absolute;
+    left: 0px;
+    top: 0rem;
+    border-radius: 0.1rem;
+	margin-left: 1.1rem;
+	outline: none;
+}
+.fenlei{
+	width: 10.07rem;
+	margin: 0 auto;
+	margin-top: 1.73rem;
+	padding-top: 0.26rem;
+}
+.fl_1{
+	width: 100%;
+	height: 13.24rem;
+}
+.fl1_title{
+	width: 6.11rem;
+	height: 1.34rem;
+	border-bottom: 0.02rem solid #E6E6E6;
+	border-top: 0.02rem solid #E6E6E6;
+	margin: 0 auto;
+	margin-bottom: 0.1rem;
+	font-size: 0.42rem;
+	text-align: center;
+	line-height: 1.34rem;
+}
+.fl_hua1{
+	width: 4.67rem;
+	height: 2.2rem;
+	background-color: #FDF8F4;
+	margin-top: 0.1rem;
+	float: left;
+	position: relative;
+}
+.fl_hua1 h1{
+	margin-top: 0.41rem;
+	margin-left: 0.51rem;
+	font-size: 0.38rem;
+	color: #2E2D2B;
+	font-weight: 400;
+}
+.fl_hua1 h2{
+	margin-top: 0.28rem;
+	margin-left: 0.51rem;
+	font-size: 0.28rem;
+	color: #8C8B89;
+	font-weight: 400;
+}
+.fl_hua1 img{
+	width: 1.26rem;
+	height: 2.2rem;
+	float: right;
+	position: absolute;
+	top: 0rem;
+	right: 0.31rem;
+}
+.fl_hua2{
+	margin-left: 0.72rem;
+}
+.fl_hua3{
+	margin-top: 0.2rem;
+}
+.fl_2{
+	margin-top: 0.4rem;
+	margin-bottom: 1.41rem;
+}
+.fl_hua5 img{
+	right: 0.03rem;
+}
+.dibu{
+	width: 100%;
+	height: 1.41rem;
+	padding-left: 0.93rem;
+	padding-right: 0.93rem;
+	background-color: #fff;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+.sy{
+	width: 0.86rem;
+	padding-top: 0.12rem;
+	float: left;
+}
+.sy p{
+	font-family: 'iconfont';
+	font-size: 0.58rem;
+	color: #BDBDBD;
+	text-align: center;
+}
+.sy h1{
+	font-size: 0.4rem;
+	color: #BDBDBD;
+	text-align: center;
+}
+.sy1{
+	width: 0.86rem;
+	padding-top: 0.12rem;
+	/* float: left; */
+	margin: 0 auto;
+}
+.sy1 p{
+	font-family: 'iconfont';
+	font-size: 0.58rem;
+	color: #7D7D7D;
+	text-align: center;
+}
+.sy1 h1{
+	font-size: 0.4rem;
+	color: #BDBDBD;
+	text-align: center;
+}
+.sy2{
+	position: absolute;
+	top: 0;
+	right: 0.93rem;
+}
+.sy:hover .sy p{
+	color: #F89597;
+}
+.sy3 p{
+	color: #F89597;
+}
